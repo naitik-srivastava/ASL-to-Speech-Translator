@@ -40,7 +40,7 @@ It is not just a tool; it is a symbol of empowerment, accessibility, and empathy
 Here’s what the system looks like in real-time usage:
 
 ### 🔤 Live Translation View  
-![Live Translation](media_for_Demo/Demo_Asl.gif)
+![Live Translation](media_for_Demo/Screenshot_2025-07-27-18-44-35-460_com.google.android.apps.photos.jpg)
 
 ### ✋ Hand Gesture Detection  
 ![Gesture Recognition](media_for_Demo/Screenshot_2025-07-27-18-45-17-221_com.google.android.apps.photos.jpg)
