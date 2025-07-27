@@ -40,12 +40,13 @@ It is not just a tool; it is a symbol of empowerment, accessibility, and empathy
 Here’s what the system looks like in real-time usage:
 
 ### 🔤 Live Translation View  
-![Live Translation](media_for_Demo\Demo_Asl.mp4)
+![Live Translation](media_for_Demo/Demo_Asl.gif)
 
 ### ✋ Hand Gesture Detection  
-![Gesture Recognition](media_for_Demo\Screenshot_2025-07-27-18-45-17-221_com.google.android.apps.photos.jpg)
+![Gesture Recognition](media_for_Demo/Screenshot_2025-07-27-18-45-17-221_com.google.android.apps.photos.jpg)
 
-(*Replace the image paths above with actual screenshots from your project.*)
+
+
 
 ---
 
